@@ -1,0 +1,2 @@
+﻿Source1.obj : error LNK2005: ya se definió main en Source.obj
+C:\Users\34692\source\repos\polinomio\x64\Debug\polinomio.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
