@@ -1,4 +1,0 @@
-
-cout >> "Hola";
-aje
-ola
